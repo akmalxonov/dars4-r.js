@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 14 Pro",
+      "description": "256GB, Space Black, 6.1-inch Super Retina XDR display",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1666624218750-279b92d8fcf6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "512GB, Phantom Black, 6.8-inch QHD+ AMOLED display",
+      "price": 1399,
+      "image": "https://images.unsplash.com/photo-1677442139464-58289fdb20c5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5 Headphones",
+      "description": "Wireless Noise Cancelling Headphones, Black",
+      "price": 399,
+      "image": "https://images.unsplash.com/photo-1656945282454-9ed98d2ad0ef?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air M2",
+      "description": "13.6-inch, 16GB RAM, 512GB SSD, Space Gray",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1655758000256-d5976a34658e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Max 270",
+      "description": "Men's Running Shoes, Size 42, Black/White",
+      "price": 160,
+      "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1e1?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
